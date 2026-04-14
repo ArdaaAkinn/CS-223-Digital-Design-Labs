@@ -1,8 +1,6 @@
 # CS-223-Digital-Design-Labs
 Digital design laboratory projects implementing core combinational and sequential logic systems using hardware description concepts.
 
-# CS223 Digital Design Labs
-
 This repository contains lab assignments from CS-223 course, covering digital logic design concepts and system implementation.
 
 ## Labs Overview
